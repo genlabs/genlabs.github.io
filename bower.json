@@ -1,0 +1,22 @@
+{
+  "name": "genlabs.github.io",
+  "homepage": "http://genlabs.io",
+  "authors": [
+    "sunny@genlabs.io"
+  ],
+  "description": "WebSite for Gen Lab",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}
